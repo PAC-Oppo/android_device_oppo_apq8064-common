@@ -156,4 +156,7 @@
     <string name="config_networkLocationProviderPackageName" translatable="false">com.qualcomm.location</string>
     <bool name="config_enableFusedLocationOverlay" translatable="false">false</bool>
 
+    <!--  Maximum number of supported users -->
+    <integer name="config_multiuserMaximumUsers">3</integer>
+
 </resources>
